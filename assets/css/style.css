@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  
 }
 body {
     /* more on this crazy alphanumerical value in a minute! */
@@ -21,8 +22,8 @@ header {
     margin: 0;
   }
   h2{
-    font-size: 75px
-    color: #024e76;
+    color: #024e76; 
+    font-size: 200px
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
     border-bottom: 3px solid;
@@ -135,8 +136,8 @@ footer {
     text-align: center;
   }
 .intro h2{
-  font-size: 55px
   color: #024e76;
+  font-size: 55px
   margin-bottom: 35px;
   padding: 0 100px 20px 100px;
   border-bottom: 3px solid;
@@ -242,3 +243,5 @@ footer {
   font-size: 17px;
   line-height: 1.3;
 }
+
+/* Reach Out*/
